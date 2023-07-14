@@ -1,5 +1,5 @@
 # Project on Techrity
-<br />
+
 ### Assigned by 
 <br />
 Mentor Yash Bawa
