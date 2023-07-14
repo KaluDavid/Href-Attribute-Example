@@ -1,7 +1,6 @@
 # Project on Techrity
 
 ### Assigned by 
-<br />
 Mentor Yash Bawa
 
 ## Built with only
